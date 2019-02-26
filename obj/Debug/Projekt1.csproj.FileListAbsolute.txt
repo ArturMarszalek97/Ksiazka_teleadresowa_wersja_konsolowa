@@ -1,0 +1,6 @@
+C:\Users\Artur\Desktop\Studia\Semestr 5\Komunikacja człowiek-komputer\Projekt\Projekt1\bin\Debug\Projekt1.exe.config
+C:\Users\Artur\Desktop\Studia\Semestr 5\Komunikacja człowiek-komputer\Projekt\Projekt1\bin\Debug\Projekt1.exe
+C:\Users\Artur\Desktop\Studia\Semestr 5\Komunikacja człowiek-komputer\Projekt\Projekt1\bin\Debug\Projekt1.pdb
+C:\Users\Artur\Desktop\Studia\Semestr 5\Komunikacja człowiek-komputer\Projekt\Projekt1\obj\Debug\Projekt1.csprojResolveAssemblyReference.cache
+C:\Users\Artur\Desktop\Studia\Semestr 5\Komunikacja człowiek-komputer\Projekt\Projekt1\obj\Debug\Projekt1.exe
+C:\Users\Artur\Desktop\Studia\Semestr 5\Komunikacja człowiek-komputer\Projekt\Projekt1\obj\Debug\Projekt1.pdb
